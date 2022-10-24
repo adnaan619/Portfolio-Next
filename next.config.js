@@ -5,3 +5,5 @@ const nextConfig = {
 }
 
 module.exports = nextConfig
+
+//Helps to identify unsafe lifecycles 
